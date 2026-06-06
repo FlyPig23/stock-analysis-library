@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stock Deep Analyzer"
+  short_description: "Deep individual-stock research, valuation, investor panel scoring, and HTML reports"
+  default_prompt: "Use $stock-deep-analyzer to analyze an individual A-share, HK, or US stock with valuation, catalysts, investor-panel scoring, trap checks, and an HTML report."

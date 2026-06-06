@@ -1,0 +1,41 @@
+{
+  "name": "Stock Analysis Library",
+  "repository": "stock-analysis-library",
+  "skills": [
+    {
+      "name": "stock-deep-analyzer",
+      "path": "skills/stock-deep-analyzer",
+      "category": "single-stock-deep-research",
+      "markets": ["A-share", "Hong Kong", "US"],
+      "summary": "Individual-stock research, valuation, investor-panel scoring, trap checks, and HTML reports."
+    },
+    {
+      "name": "serenity-stock-research",
+      "path": "skills/serenity-stock-research",
+      "category": "supply-chain-thesis-research",
+      "markets": ["global"],
+      "summary": "Serenity-style chokepoint research and Bayesian thesis updates for public equities."
+    },
+    {
+      "name": "capital-rotation-stock-analysis",
+      "path": "skills/capital-rotation-stock-analysis",
+      "category": "capital-rotation",
+      "markets": ["global"],
+      "summary": "Sector/theme migration, relative strength, and rotation-map analysis."
+    },
+    {
+      "name": "us-political-stock-signal-analysis",
+      "path": "skills/us-political-stock-signal-analysis",
+      "category": "political-trade-disclosures",
+      "markets": ["US"],
+      "summary": "Congress, Trump, executive-branch, OGE, and STOCK Act disclosure signal analysis."
+    },
+    {
+      "name": "ai-supply-chain-bottleneck-hunter",
+      "path": "skills/ai-supply-chain-bottleneck-hunter",
+      "category": "ai-supply-chain-bottlenecks",
+      "markets": ["global"],
+      "summary": "AI, semiconductor, photonics, datacenter, power, cooling, packaging, and materials bottleneck mapping."
+    }
+  ]
+}

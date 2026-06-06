@@ -1,0 +1,37 @@
+.DS_Store
+*.pyc
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Python environments
+.venv/
+venv/
+env/
+
+# Skill/runtime caches
+.cache/
+**/.cache/
+**/reports/
+**/screenshots/
+**/tmp/
+**/dist/
+**/build/
+
+# Generated local artifacts
+*.log
+*.sqlite
+*.db
+*.html
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# Keep documented assets even though png/jpg are generally ignored.
+!skills/**/assets/**/*.png
+!skills/**/assets/**/*.jpg
+!skills/**/assets/**/*.jpeg
+!skills/**/assets/**/*.webp
+!skills/**/assets/**/*.html

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Capital Rotation Stock Analysis"
+  short_description: "Track stock-market capital rotation"
+  default_prompt: "Use $capital-rotation-stock-analysis to analyze where capital is rotating next in AI and technology stocks."

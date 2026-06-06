@@ -1,0 +1,4 @@
+interface:
+  display_name: "Serenity Stock Research"
+  short_description: "Chokepoint and Bayesian equity research"
+  default_prompt: "Use serenity-stock-research to research this stock with supply-chain chokepoint and Bayesian conviction analysis."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "US Political Stock Signal Analysis"
+  short_description: "Analyze U.S. political trade disclosures and policy-linked stock signals"
+  default_prompt: "Use $us-political-stock-signal-analysis to investigate U.S. political stock trade disclosures, including Congress, Trump, executive-branch officials, committee or agency overlap, catalyst timing, and signal quality."
