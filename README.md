@@ -16,6 +16,20 @@ This repository packages several local Codex skills into one portable project. I
 | `us-political-stock-signal-analysis` | U.S. political stock disclosures and policy-linked trade signals | "Trump administration 买了哪些 AI 股票", "国会议员买入和委员会重叠" | Transaction table, role-sector overlap, catalyst timeline, signal score |
 | `ai-supply-chain-bottleneck-hunter` | AI/semiconductor/photonics bottleneck mapping before naming stocks | "梳理 CPO 产业链瓶颈", "找数据中心电力的卡点" | Supply-chain stack, bottleneck thesis, evidence ladder, candidate lanes |
 
+## Attribution And Source Notes
+
+Not every skill in this repository is original work. This library is a curated integration of local skills and public/third-party research workflows. The table below summarizes the current source status.
+
+| Skill | Source Status | Notes |
+|---|---|---|
+| `capital-rotation-stock-analysis` | Original/local skill | Created locally for capital-flow and sector-rotation analysis. |
+| `us-political-stock-signal-analysis` | Original/local skill | Created locally by merging the previous U.S. official-trade and congressional-trade signal workflows. |
+| `stock-deep-analyzer` | Third-party integration | Integrated from `wbh604/UZI-Skill`, `skills/deep-analysis`, then renamed and packaged here as `stock-deep-analyzer`. |
+| `serenity-stock-research` | Public online framework integration | Built around publicly available Serenity/@aleabitoreddit-style research ideas, Bayesian thesis updating, and supply-chain chokepoint analysis. |
+| `ai-supply-chain-bottleneck-hunter` | Public online framework integration | Built around public Serenity/Crux-style AI supply-chain bottleneck research patterns and question ladders. |
+
+If attribution needs to be corrected or expanded, update this section and `NOTICE.md` together.
+
 ## Skill Selection Guide
 
 Use the library as a router:
